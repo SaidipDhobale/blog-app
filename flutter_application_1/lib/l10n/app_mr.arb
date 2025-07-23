@@ -1,0 +1,136 @@
+{
+  "@@locale": "mr",
+
+  "blogs": "ब्लॉग्ज",
+  "@blogs": {
+    "description": "ब्लॉग यादी पृष्ठासाठी लेबल"
+  },
+
+  "myBlog": "माझा ब्लॉग",
+  "@myBlog": {
+    "description": "वापरकर्त्याच्या वैयक्तिक ब्लॉग विभागाचे शीर्षक"
+  },
+
+  "home": "मुख्यपृष्ठ",
+  "@home": {
+    "description": "मुख्य स्क्रीन किंवा टॅबसाठी मजकूर"
+  },
+
+  "setting": "सेटिंग",
+  "@setting": {
+    "description": "सेटिंग्ज स्क्रीनसाठी लेबल"
+  },
+
+  "fullName": "पूर्ण नाव",
+  "@fullName": {
+    "description": "पूर्ण नाव इनपुट फील्डसाठी लेबल"
+  },
+
+  "email": "ईमेल",
+  "@email": {
+    "description": "ईमेल फील्डसाठी लेबल"
+  },
+
+  "phone": "फोन",
+  "@phone": {
+    "description": "फोन नंबर फील्डसाठी लेबल"
+  },
+
+  "profile": "प्रोफाइल",
+  "@profile": {
+    "description": "प्रोफाइल विभागासाठी शीर्षक"
+  },
+
+  "title": "शीर्षक",
+  "@title": {
+    "description": "ब्लॉग शीर्षक फील्डसाठी लेबल"
+  },
+
+  "content": "सामग्री",
+  "@content": {
+    "description": "ब्लॉग सामग्री फील्डसाठी लेबल"
+  },
+
+  "tech": "तंत्रज्ञान",
+  "@tech": {
+    "description": "तंत्रज्ञान ब्लॉग श्रेणी"
+  },
+
+  "travel": "प्रवास",
+  "@travel": {
+    "description": "प्रवास ब्लॉग श्रेणी"
+  },
+
+  "food": "अन्न",
+  "@food": {
+    "description": "अन्न ब्लॉग श्रेणी"
+  },
+
+  "health": "आरोग्य",
+  "@health": {
+    "description": "आरोग्य ब्लॉग श्रेणी"
+  },
+
+  "lifestyle": "जीवनशैली",
+  "@lifestyle": {
+    "description": "जीवनशैली ब्लॉग श्रेणी"
+  },
+
+  "finance": "आर्थिक",
+  "@finance": {
+    "description": "आर्थिक ब्लॉग श्रेणी"
+  },
+
+  "addBlog": "ब्लॉग जोडा",
+  "@addBlog": {
+    "description": "नवीन ब्लॉग जोडण्यासाठी बटन लेबल"
+  },
+
+  "editBlog": "ब्लॉग अपडेट करा",
+  "@editBlog": {
+    "description": "असलेला ब्लॉग संपादित करण्यासाठी बटन लेबल"
+  },
+  "editProfile": "प्रोफाइल अपडेट करा",
+  "@editProfile": {
+    "description": "वापरकर्त्याची प्रोफाइल संपादित करण्यासाठी बटन"
+  },
+
+  "logout": "लॉगआउट",
+  "@logout": {
+    "description": "अ‍ॅपमधून बाहेर पडण्यासाठी बटन"
+  },
+  "areYouSure": "तुम्हाला खात्री आहे का?",
+  "@areYouSure": {
+    "description": "महत्वाची कृती करण्यापूर्वी खात्री विचारणारा संदेश।"
+  },
+
+  "cancel": "रद्द करा",
+  "@cancel": {
+    "description": "कृती थांबवण्यासाठी किंवा संवाद बंद करण्यासाठी बटन।"
+  },
+
+  "delete": "हटवा",
+  "@delete": {
+    "description": "घटक हटवण्यासाठी वापरले जाणारे बटन।"
+  },
+
+  "permanentDeleteWarning": "ही क्रिया आयटम कायमची हटवेल.",
+  "@permanentDeleteWarning": {
+    "description": "आयटम कायमचा हटवण्यापूर्वीची चेतावणी।"
+  },
+
+  "selectLanguage": "भाषा निवडा",
+  "@selectLanguage": {
+    "description": "भाषा निवडण्यासाठी शीर्षक किंवा लेबल।"
+  },
+
+  "darkMode": "डार्क मोड",
+  "@darkMode": {
+    "description": "डार्क किंवा लाइट थीम बदलण्यासाठी स्विच लेबल।"
+  },
+
+  "savedChanges": "बदला",
+  "@savedChanges": {
+    "description": "बदल साठवल्यानंतर दाखवणारा यशस्वी संदेश।"
+  }
+}

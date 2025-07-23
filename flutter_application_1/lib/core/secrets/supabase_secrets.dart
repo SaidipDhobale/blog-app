@@ -1,0 +1,4 @@
+class SupabaseSecret{
+  static const String url="https://ezqerkfgsxzhllimerxa.supabase.co";
+  static const String anon="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV6cWVya2Znc3h6aGxsaW1lcnhhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2NjkxMzEsImV4cCI6MjA2NjI0NTEzMX0.Ahfhky88qCx0xl9N-mQI5pYPDnxzxcFc_sWwQkRbNTE";
+}

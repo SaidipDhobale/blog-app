@@ -1,0 +1,135 @@
+{
+  "@@locale": "en",
+
+  "blogs": "Blogs",
+  "@blogs": {
+    "description": "Label for the blog list page or blog section title"
+  },
+
+  "myBlog": "My Blog",
+  "@myBlog": {
+    "description": "Title for user’s personal blog section"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "Text for home screen or home tab"
+  },
+
+  "setting": "Setting",
+  "@setting": {
+    "description": "Label for settings screen or tab"
+  },
+
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Label for the user's full name field"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Label for the user's email address field"
+  },
+
+  "phone": "Phone",
+  "@phone": {
+    "description": "Label for the user's phone number field"
+  },
+
+  "profile": "Profile",
+  "@profile": {
+    "description": "Label or title for the profile section"
+  },
+
+  "title": "Title",
+  "@title": {
+    "description": "Label for the blog title input"
+  },
+
+  "content": "Content",
+  "@content": {
+    "description": "Label for the blog content input"
+  },
+
+  "tech": "Tech",
+  "@tech": {
+    "description": "Category name for technology blogs"
+  },
+
+  "travel": "Travel",
+  "@travel": {
+    "description": "Category name for travel blogs"
+  },
+
+  "food": "Food",
+  "@food": {
+    "description": "Category name for food blogs"
+  },
+
+  "health": "Health",
+  "@health": {
+    "description": "Category name for health-related blogs"
+  },
+
+  "lifestyle": "Lifestyle",
+  "@lifestyle": {
+    "description": "Category name for lifestyle blogs"
+  },
+
+  "finance": "Finance",
+  "@finance": {
+    "description": "Category name for finance blogs"
+  },
+
+  "addBlog": "Add Blog",
+  "@addBlog": {
+    "description": "Button label to add a new blog"
+  },
+
+  "editBlog": "Edit Blog",
+  "@editBlog": {
+    "description": "Button label to edit an existing blog"
+  },
+  "editProfile":"Edit profile",
+"@editProfile": {
+    "description": "Button label for edit profile"
+  },
+  "logout":"logout",
+  "@logout": {
+    "description": "Button label to logout"
+  },
+  "areYouSure": "Are you sure?",
+  "@areYouSure": {
+    "description": "Confirmation message shown before critical actions like delete."
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Button text to cancel an action or close a dialog."
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Button text to confirm deletion of an item."
+  },
+
+  "permanentDeleteWarning": "This action will permanently delete the item.",
+  "@permanentDeleteWarning": {
+    "description": "Warning message shown before permanently deleting an item."
+  },
+
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Title or label for language selection section."
+  },
+
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Switch label for toggling dark or light theme."
+  },
+
+  "savedChanges": "Saved changes",
+  "@savedChanges": {
+    "description": "Snackbar or message shown after changes are saved."
+  }
+}

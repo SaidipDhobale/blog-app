@@ -1,0 +1,137 @@
+{
+  "@@locale": "hi",
+
+  "blogs": "ब्लॉग्स",
+  "@blogs": {
+    "description": "ब्लॉग सूची पृष्ठ के लिए लेबल"
+  },
+
+  "myBlog": "मेरा ब्लॉग",
+  "@myBlog": {
+    "description": "उपयोगकर्ता के व्यक्तिगत ब्लॉग अनुभाग का शीर्षक"
+  },
+
+  "home": "होम",
+  "@home": {
+    "description": "होम स्क्रीन या टैब के लिए पाठ"
+  },
+
+  "setting": "सेटिंग",
+  "@setting": {
+    "description": "सेटिंग्स स्क्रीन या टैब के लिए लेबल"
+  },
+
+  "fullName": "पूरा नाम",
+  "@fullName": {
+    "description": "उपयोगकर्ता के पूरे नाम के फ़ील्ड के लिए लेबल"
+  },
+
+  "email": "ईमेल",
+  "@email": {
+    "description": "ईमेल फ़ील्ड का लेबल"
+  },
+
+  "phone": "फ़ोन",
+  "@phone": {
+    "description": "फोन नंबर फ़ील्ड का लेबल"
+  },
+
+  "profile": "प्रोफ़ाइल",
+  "@profile": {
+    "description": "प्रोफ़ाइल अनुभाग के लिए शीर्षक"
+  },
+
+  "title": "शीर्षक",
+  "@title": {
+    "description": "ब्लॉग शीर्षक फ़ील्ड के लिए लेबल"
+  },
+
+  "content": "सामग्री",
+  "@content": {
+    "description": "ब्लॉग सामग्री फ़ील्ड के लिए लेबल"
+  },
+
+  "tech": "तकनीक",
+  "@tech": {
+    "description": "प्रौद्योगिकी ब्लॉग श्रेणी"
+  },
+
+  "travel": "यात्रा",
+  "@travel": {
+    "description": "यात्रा ब्लॉग श्रेणी"
+  },
+
+  "food": "भोजन",
+  "@food": {
+    "description": "भोजन ब्लॉग श्रेणी"
+  },
+
+  "health": "स्वास्थ्य",
+  "@health": {
+    "description": "स्वास्थ्य ब्लॉग श्रेणी"
+  },
+
+  "lifestyle": "जीवनशैली",
+  "@lifestyle": {
+    "description": "जीवनशैली ब्लॉग श्रेणी"
+  },
+
+  "finance": "वित्त",
+  "@finance": {
+    "description": "वित्तीय ब्लॉग श्रेणी"
+  },
+
+  "addBlog": "ब्लॉग जोड़ें",
+  "@addBlog": {
+    "description": "नया ब्लॉग जोड़ने के लिए बटन लेबल"
+  },
+
+  "editBlog": "ब्लॉग अपडेट करें",
+  "@editBlog": {
+    "description": "मौजूदा ब्लॉग संपादित करने के लिए बटन लेबल"
+  },
+  "editProfile": "प्रोफ़ाइल अपडेट करें",
+  "@editProfile": {
+    "description": "उपयोगकर्ता की प्रोफ़ाइल संपादित करने का बटन लेबल"
+  },
+
+  "logout": "लॉग आउट",
+  "@logout": {
+    "description": "ऐप से लॉग आउट करने के लिए बटन लेबल"
+  },
+  "areYouSure": "क्या आप सुनिश्चित हैं?",
+  "@areYouSure": {
+    "description": "महत्वपूर्ण कार्रवाई से पहले पुष्टि के लिए संदेश।"
+  },
+
+  "cancel": "रद्द करें",
+  "@cancel": {
+    "description": "किसी कार्रवाई को रोकने या संवाद बंद करने के लिए बटन।"
+  },
+
+  "delete": "हटाएं",
+  "@delete": {
+    "description": "किसी आइटम को हटाने के लिए बटन का पाठ।"
+  },
+
+  "permanentDeleteWarning": "यह क्रिया आइटम को स्थायी रूप से हटा देगी।",
+  "@permanentDeleteWarning": {
+    "description": "किसी आइटम को स्थायी रूप से हटाने से पहले चेतावनी।"
+  },
+
+  "selectLanguage": "भाषा चुनें",
+  "@selectLanguage": {
+    "description": "ऐप की भाषा चयन करने के लिए शीर्षक या लेबल।"
+  },
+
+  "darkMode": "डार्क मोड",
+  "@darkMode": {
+    "description": "डार्क या लाइट थीम टॉगल करने के लिए स्विच का लेबल।"
+  },
+
+  "savedChanges": "बदलाव सफलतापूर्वक सहेजे गए",
+  "@savedChanges": {
+    "description": "बदलाव सहेजने के बाद दिखने वाला पुष्टिकरण संदेश।"
+  }
+
+}
